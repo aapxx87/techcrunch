@@ -13,6 +13,40 @@ body {
 }
 
 
+
+
+.main-right {
+   
+    position: absolute;
+    top: 300px;
+    right: 10px;
+  width: 17%;
+  height: 350px;
+  
+
+}
+
+
+
+.main-right-title-green {
+    
+    font-size: 36px;
+    font-family: aktiv-grotesk;
+    font-weight: 800;
+    margin-right: 10px;
+    color: green;
+    margin-bottom: -28px;
+}
+
+
+.main-right-title {
+    font-size: 36px;
+    font-family: aktiv-grotesk;
+    font-weight: 800;
+    margin-right: 10px;
+}
+
+
 button {
   width: 110px;
   height: 35px;
@@ -101,6 +135,7 @@ button {
 ul {
   padding: 0;
   margin: 0;
+    
 }
 
 
@@ -113,6 +148,21 @@ margin-bottom: 7px;
   font-size: 18px;
   font-weight: 200;
   font-family: sans-serif;
+}
+
+
+.ul2 {
+    margin-top: 50px;
+}
+
+
+.li2 {
+    margin-left: 20px;
+  list-style: none;
+  color: green; 
+  font-size: 12px;
+    font-style: bold;
+    font-weight: 600;
 }
 
 
@@ -192,6 +242,7 @@ margin-bottom: 7px;
   font-size: 14px;
   color: gray;
 }
+
 
 
 
